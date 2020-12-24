@@ -1,2 +1,9 @@
-# taskmanager
-It is a python desktop application where user will set the alarm with a task to do and it will notify at the time
+# Task Manager
+Requirement:- Python 3.8, sqlite, SpeechRecognition
+Contact me:-
+
+Instagram:- @meghalmurkute
+
+Twitter:-@meghalmurkute
+
+Linkedin:- @meghalmurkute
